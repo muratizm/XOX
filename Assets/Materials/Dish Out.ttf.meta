@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 56ac20ecdebe869498f5543b4a278cf6
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Dish Out
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a2a1f5c258c73e8489dc3b2b9dbbf211, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
