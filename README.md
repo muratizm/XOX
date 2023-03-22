@@ -4,7 +4,7 @@ Introduction
 
 \* My name is Murat Beder and this is my final project for CS50G Introduction to game develepment course.
 
-\* Checkout the video : https://youtu.be/o7dpI8Us4Gg
+\* Check out the video : https://youtu.be/o7dpI8Us4Gg
 
 **The Goal**
 
